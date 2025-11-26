@@ -2,7 +2,7 @@
 
 ## 📋 Descripción
 
-Este directorio contiene la documentación completa de todas las vulnerabilidades explotadas en DVWA. Cada vulnerabilidad incluye su carpeta con imágenes de evidencia y payloads utilizados durante las pruebas.
+Este directorio contiene la documentación completa de todas las vulnerabilidades explotadas en DVWA dificultat media. Cada vulnerabilidad incluye su carpeta con imágenes de evidencia y payloads utilizados durante las pruebas.
 
 ---
 
@@ -47,6 +47,7 @@ VULNERABILIDADES/
 | 2 | **Command Injection** | 🔴 Crítica | [📄 Ver Documentación](./CommandInjection/comandinjection.md) |
 | 3 | **Command File Upload** | 🔴 Crítica | [📄 Ver Documentación](./FileUpload/fileupload.md) |
 | 4 | **XSS(stored)** |  🟠 **Alta** | [📄 VerDocumentación](./XSS(Stored)/xss.md) |
+| 5 | **SQLInjection** |  🔴 Crítica | [📄 VerDocumentación](./sqlinjection/sqlinjection.md) |
 
 
 ---
