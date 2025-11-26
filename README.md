@@ -61,6 +61,11 @@ Generación de informes estructurados y orientados a diferentes audiencias, sigu
 <td>Personal encargado de parches</td>
 <td><a href="./Vulnerabilidades/README.md"><strong>🔧 Ver Informe</strong></a></td>
 </tr>
+<tr>
+<td><strong>Instalacion del entorno</strong></td>
+<td>Cualquier Persona</td>
+<td><a href="./Instrucciones/instrucciones.md"><strong>📋 Ver Instrucciones</strong></a></td>
+</tr>
 </tbody>
 </table>
 
