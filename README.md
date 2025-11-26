@@ -56,6 +56,11 @@ Generación de informes estructurados y orientados a diferentes audiencias, sigu
 <td>Equipos de Desarrollo e Infraestructura</td>
 <td><a href="./Informes/Informe-Tecnico.md"><strong>🔧 Ver Informe</strong></a></td>
 </tr>
+<tr>
+<td><strong>Vulnerabilidades</strong></td>
+<td>Personal encargado de parches</td>
+<td><a href="./Vulnerabilidades/README.md"><strong>🔧 Ver Informe</strong></a></td>
+</tr>
 </tbody>
 </table>
 
